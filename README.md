@@ -1,2 +1,4 @@
 # Anurag
-My first Github repository Author - Anurag G
+My first Github repository
+<br>
+Author - Anurag G
